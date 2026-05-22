@@ -271,7 +271,7 @@ int solve(vector<string> a)
             {
                 if (g == 0)
                 {
-                    cerr << "Runtime Error";
+                    cerr << "Runtime Error that not possible";
                     exit(2);
                 }
 
