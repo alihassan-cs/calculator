@@ -14,10 +14,10 @@ A C++ program that converts infix expressions to postfix notation and evaluates 
 
 ## Supported Operators
 
-- +
-- -
-- *
-- /
+-  +
+-  -
+-  *
+-  /
 
 ## Supported Brackets
 
